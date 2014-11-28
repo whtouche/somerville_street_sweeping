@@ -1,0 +1,5234 @@
+[
+  {
+    "Street Name":"Adams",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Adams",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Adrian",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Adrian",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Albion",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Cedar to Lowell"
+  },
+  {
+    "Street Name":"Albion",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Cedar to Lowell"
+  },
+  {
+    "Street Name":"Albion",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Lowell St. to Central St."
+  },
+  {
+    "Street Name":"Albion",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Lowell St. to Central St."
+  },
+  {
+    "Street Name":"Aldersey",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Aldersey",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Aldrich",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Aldrich",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Allen",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Allen",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Alpine",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Alpine",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Alston",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Alston",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Ames",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Ames",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Appleton",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Appleton",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Arlington",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Arlington",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Ashland",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Ashland",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Atherton",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Atherton",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Austin",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Austin",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Autumn",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"No Parking Anytime"
+  },
+  {
+    "Street Name":"Autumn",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"No Parking Anytime"
+  },
+  {
+    "Street Name":"Avon",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Avon",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Bailey",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Bailey",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Banks",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Banks",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Bartlett",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Bartlett",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Barton",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Barton",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Beacon",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"Tuesday Night",
+    "Time":"12 a.m. - 6 a.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Beacon",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"Thursday Night",
+    "Time":"12 a.m. - 6 a.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Bedford",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Bedford",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Beech",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Beech",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Belknap",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Belknap",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Belmont",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Somerville Ave. to Summer St."
+  },
+  {
+    "Street Name":"Belmont",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Somerville Ave. to Summer St."
+  },
+  {
+    "Street Name":"Belmont",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Summer St. to Highland Ave."
+  },
+  {
+    "Street Name":"Belmont",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Summer St. to Highland Ave."
+  },
+  {
+    "Street Name":"Benedict",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Benedict",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Berkeley",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Berkeley",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Bigelow",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Bigelow",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Billingham",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Billingham",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Bolton",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Bolton",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Bonair",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Cross St to McGrath Hwy."
+  },
+  {
+    "Street Name":"Bonair",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Cross St to McGrath Hwy."
+  },
+  {
+    "Street Name":"Bonair",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Walnut St. to Dana St."
+  },
+  {
+    "Street Name":"Bonair",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Walnut St. to Dana St."
+  },
+  {
+    "Street Name":"Bond",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Bond",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Boston",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Walnut to Prospect Hill Ave."
+  },
+  {
+    "Street Name":"Boston",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Walnut to Prospect Hill Ave."
+  },
+  {
+    "Street Name":"Boston",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"Prospect Hill Ave to Washington St"
+  },
+  {
+    "Street Name":"Boston",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"Prospect Hill Ave to Washington St"
+  },
+  {
+    "Street Name":"Bow",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Summer to Somerville Ave"
+  },
+  {
+    "Street Name":"Bow",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Summer to Somerville Ave"
+  },
+  {
+    "Street Name":"Bowdoin",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Bowdoin",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Bradley",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Bradley",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Brook",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Brook",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Buckingham",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Buckingham",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Burnham",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Burnham",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Calvin",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Calvin",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Cambria",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Cambria",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Carlton",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Carlton",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Cedar",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Summer to Elm"
+  },
+  {
+    "Street Name":"Cedar",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Summer to Elm"
+  },
+  {
+    "Street Name":"Cedar",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Highland to Summer"
+  },
+  {
+    "Street Name":"Cedar",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Alpine to Highland"
+  },
+  {
+    "Street Name":"Cedar",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Highland to Summer"
+  },
+  {
+    "Street Name":"Cedar",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Alpine to Highland"
+  },
+  {
+    "Street Name":"Cedar",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Broadway to Morrison"
+  },
+  {
+    "Street Name":"Cedar",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Broadway to Morrison"
+  },
+  {
+    "Street Name":"Cedar",
+    "Suffix":"Street",
+    "Side":"either",
+    "Sweeping Day":"Saturday Night",
+    "Time":"12 a.m. - 7:30 a.m.",
+    "Section":"Broadway to Somerville Ave."
+  },
+  {
+    "Street Name":"Central",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Somerville Ave to Summer St."
+  },
+  {
+    "Street Name":"Central",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Somerville Ave to Summer St."
+  },
+  {
+    "Street Name":"Central",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Summer St. to R.R. bridge"
+  },
+  {
+    "Street Name":"Central",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Summer St. to R.R. bridge"
+  },
+  {
+    "Street Name":"Central",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Broadway to R.R. bridge"
+  },
+  {
+    "Street Name":"Central",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Broadway to R.R. bridge"
+  },
+  {
+    "Street Name":"Central",
+    "Suffix":"Street",
+    "Side":"either",
+    "Sweeping Day":"Saturday Night",
+    "Time":"12 a.m. - 7:30 a.m.",
+    "Section":"Broadway to Somerville Ave."
+  },
+  {
+    "Street Name":"Century",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Century",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Chandler",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Chandler",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Chapel",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Chapel",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Cherry",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Summer to Elm"
+  },
+  {
+    "Street Name":"Cherry",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Summer to Elm"
+  },
+  {
+    "Street Name":"Cherry",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Highland to Summer"
+  },
+  {
+    "Street Name":"Cherry",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Highland to Summer"
+  },
+  {
+    "Street Name":"Chester",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"(excluding meters)"
+  },
+  {
+    "Street Name":"Chester",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"(excluding meters)"
+  },
+  {
+    "Street Name":"Chestnut",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Chestnut",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Church",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Church",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Claremon",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Claremon",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Clark",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Clark",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Cleveland",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Cleveland",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Clifton",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Clifton",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Clyde",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Clyde",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Columbia",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Columbia",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Conwell",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Conwell",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Cooney",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Cooney",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Craigie",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Craigie",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Crescent",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Crescent",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Crocker",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Crocker",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Cross",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Cross",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Crown",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Crown",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Curtis",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"Broadway to Powder House Blvd."
+  },
+  {
+    "Street Name":"Curtis",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"Broadway to Powder House Blvd."
+  },
+  {
+    "Street Name":"Curtis",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"Powder House Blvd. to Medford city line"
+  },
+  {
+    "Street Name":"Curtis",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"Powder House Blvd. to Medford city line"
+  },
+  {
+    "Street Name":"Cutter",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Cutter",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Cypress",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Cypress",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Dana",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Dana",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Dane",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Dane",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Dartmouth",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Dartmouth",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Day",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"(excluding meters)"
+  },
+  {
+    "Street Name":"Day",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"(excluding meters)"
+  },
+  {
+    "Street Name":"Delaware",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Delaware",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Dell",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Dell",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Derby",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Derby",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Dickinson",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Dickinson",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Dickson",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Dickson",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Dimick",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Dimick",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Dover",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"(excluding meters)"
+  },
+  {
+    "Street Name":"Dover",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"(excluding meters)"
+  },
+  {
+    "Street Name":"Dow",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Dow",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Druham",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Druham",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"East Albion",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"East Albion",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Edmands",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Edmands",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Eliot",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Eliot",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Ellsworth",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Ellsworth",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Elm",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"Tuesday Night",
+    "Time":"12 a.m. - 6 a.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Elm",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"Thursday Night",
+    "Time":"12 a.m. - 6 a.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Elm",
+    "Suffix":"Street",
+    "Side":"either",
+    "Sweeping Day":"Friday Night",
+    "Time":"12 a.m. - 6 a.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Elmwood",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Elmwood",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Elston",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Elston",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Emerson",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Emerson",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Essex",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Essex",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Eustis",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"to city line"
+  },
+  {
+    "Street Name":"Eustis",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"to city line"
+  },
+  {
+    "Street Name":"Everett",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Everett",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Fairfax",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Fairfax",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Fenwick",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Fenwick",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Flint",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Flint",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Florence",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Florence",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Forest",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"to city line"
+  },
+  {
+    "Street Name":"Forest",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"to city line"
+  },
+  {
+    "Street Name":"Forster",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Forster",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Foskett",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Foskett",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Francis",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Francis",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Franklin",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Franklin",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Fremont",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Fremont",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"George",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"George",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Gibbens",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Gibbens",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Gilman",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Cross St. to Aldrich St."
+  },
+  {
+    "Street Name":"Gilman",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Cross St. to Aldrich St."
+  },
+  {
+    "Street Name":"Gilman",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Aldrich St. to Walnut St."
+  },
+  {
+    "Street Name":"Gilman",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Aldrich St. to Walnut St."
+  },
+  {
+    "Street Name":"Glen",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Broadway to Pearl St."
+  },
+  {
+    "Street Name":"Glen",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Tufts St. to Pearl St."
+  },
+  {
+    "Street Name":"Glen",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Broadway to Pearl St."
+  },
+  {
+    "Street Name":"Glen",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Tufts St. to Pearl St."
+  },
+  {
+    "Street Name":"Gordon",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Gordon",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Gorham",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Gorham",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Granite",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Granite",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Grant",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Grant",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Greene",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Greene",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Greenville",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Greenville",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Grove",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Grove",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Hall",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Hall",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Hamlet",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Hamlet",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Hammond",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Hammond",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Hancock",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Summer to Elm"
+  },
+  {
+    "Street Name":"Hancock",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Summer to Elm"
+  },
+  {
+    "Street Name":"Hancock",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Highland to Summer"
+  },
+  {
+    "Street Name":"Hancock",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Highland to Lexington"
+  },
+  {
+    "Street Name":"Hancock",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Highland to Summer"
+  },
+  {
+    "Street Name":"Hancock",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Highland to Lexington"
+  },
+  {
+    "Street Name":"Hanson",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Hanson",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Harding",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Harding",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Harold",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Harold",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Harrison",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Harrison",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Harvard",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Harvard",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Hathorn",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Hathorn",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Hawkins",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Hawkins",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Hawthorne",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Hawthorne",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Heath",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Heath",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Henderson",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Henderson",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"High",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"High",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Hill",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Hill",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Hinckley",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Hinckley",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Holland",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"Monday Night",
+    "Time":"12 a.m. - 6 a.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Holland",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"Wednesday Night",
+    "Time":"12 a.m. - 6 a.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Holland",
+    "Suffix":"Street",
+    "Side":"either",
+    "Sweeping Day":"Friday Night",
+    "Time":"12 a.m. - 6 a.m.",
+    "Section":"Davis Sq."
+  },
+  {
+    "Street Name":"Holland",
+    "Suffix":"Street",
+    "Side":"either",
+    "Sweeping Day":"Saturday Night",
+    "Time":"12 a.m. - 7:30 a.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Horace",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Horace",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Houghton",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Houghton",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Howard",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Howard",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Howe",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Howe",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Hudson",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Cedar to Lowell"
+  },
+  {
+    "Street Name":"Hudson",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Cedar to Lowell"
+  },
+  {
+    "Street Name":"Hudson",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Lowell St. to Central St."
+  },
+  {
+    "Street Name":"Hudson",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Lowell St. to Central St."
+  },
+  {
+    "Street Name":"Hunting",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Hunting",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Ibbetson",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Ibbetson",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Irving",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Irving",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Ivaloo",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Ivaloo",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"James",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"James",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Jaques",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Jaques",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Jasper",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Jasper",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Jay",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Jay",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Joseph",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Joseph",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Joy",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Joy",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Kent",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Beacon to Harrison"
+  },
+  {
+    "Street Name":"Kent",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Beacon to Harrison"
+  },
+  {
+    "Street Name":"Kenwood",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Kenwood",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Kingston",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Kingston",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Knapp",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Knapp",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Knowlton",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Knowlton",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Lake",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Lake",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Landers",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Landers",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Laurel",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Laurel",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Lee",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Lee",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Leland",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Leland",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Leon",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Leon",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Leonard",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Leonard",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Lewis",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Lewis",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Lincoln",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Lincoln",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Linden",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Linden",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Line",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"Somerville side of street"
+  },
+  {
+    "Street Name":"Line",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"Somerville side of street"
+  },
+  {
+    "Street Name":"Linwood",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Linwood",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Lombardi",
+    "Suffix":"Street",
+    "Side":"either",
+    "Sweeping Day":"Friday Night",
+    "Time":"12 a.m. - 6 a.m.",
+    "Section":"under 93"
+  },
+  {
+    "Street Name":"Loring",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Loring",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Lovell",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Lovell",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Lowell",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Somerville Ave. to Summer St."
+  },
+  {
+    "Street Name":"Lowell",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Somerville Ave. to Summer St."
+  },
+  {
+    "Street Name":"Lowell",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Summer St. to R.R. bridge"
+  },
+  {
+    "Street Name":"Lowell",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Summer St. to R.R. bridge"
+  },
+  {
+    "Street Name":"Lowell",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Medford St. to R.R. bridge"
+  },
+  {
+    "Street Name":"Lowell",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Medford St. to R.R. bridge"
+  },
+  {
+    "Street Name":"MacArthur",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"MacArthur",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Madison",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Madison",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Main",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Main",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Mallet",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Mallet",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Mansfield",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Mansfield",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Marion",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Marion",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Marshall",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Marshall",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"parking lot town houses"
+  },
+  {
+    "Street Name":"Marshall",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Marshall",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"parking lot town houses"
+  },
+  {
+    "Street Name":"Mason",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Mason",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Meacham",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Meacham",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Mead",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Mead",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Medford",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"Monday Night",
+    "Time":"12 a.m. - 6 a.m.",
+    "Section":"from Highland Ave. to Broadway"
+  },
+  {
+    "Street Name":"Medford",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"Tuesday Night",
+    "Time":"12 a.m. - 6 a.m.",
+    "Section":"McGrath Highway to Cambridge city line"
+  },
+  {
+    "Street Name":"Medford",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"Wednesday Night",
+    "Time":"12 a.m. - 6 a.m.",
+    "Section":"from Highland Ave. to Broadway"
+  },
+  {
+    "Street Name":"Medford",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"Thursday Night",
+    "Time":"12 a.m. - 6 a.m.",
+    "Section":"McGrath Highway to Cambridge City Line"
+  },
+  {
+    "Street Name":"Medford",
+    "Suffix":"Street",
+    "Side":"either",
+    "Sweeping Day":"Saturday Night",
+    "Time":"12 a.m. - 7:30 a.m.",
+    "Section":"from Highland Ave. to Broadway"
+  },
+  {
+    "Street Name":"Melvin",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Melvin",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Merrian",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Merrian",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Miller",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Miller",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Milton",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Milton",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Miner",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Miner",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Monmouth",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Monmouth",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Montrose",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Montrose",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Moore",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Moore",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Moreland",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Moreland",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Morgan",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Morgan",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Morton",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Morton",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Mossland",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Mossland",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Mt Pleasant",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Mt Pleasant",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Mt Vernon",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Mt Vernon",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Munroe",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Walnut to Prospect Hill Ave."
+  },
+  {
+    "Street Name":"Munroe",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Walnut to Prospect Hill Ave."
+  },
+  {
+    "Street Name":"Munroe",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"Prospect Hill Ave to Boston St"
+  },
+  {
+    "Street Name":"Munroe",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"Prospect Hill Ave to Boston St"
+  },
+  {
+    "Street Name":"Museum",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Museum",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Myrtle",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Myrtle",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Nashua",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Nashua",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"New Washington",
+    "Suffix":"Street",
+    "Side":"either",
+    "Sweeping Day":"Friday Night",
+    "Time":"12 a.m. - 6 a.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Newberne",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Newberne",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Newbury",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Newbury",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Newton",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Webster Ave to Concord Ave."
+  },
+  {
+    "Street Name":"Newton",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Webster Ave to Concord Ave."
+  },
+  {
+    "Street Name":"Norfolk",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Norfolk",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"North",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"Powder House Blvd. to Medford city line"
+  },
+  {
+    "Street Name":"North",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"Powder House Blvd to Medford city line"
+  },
+  {
+    "Street Name":"North",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"Broadway to Powder House Blvd"
+  },
+  {
+    "Street Name":"North",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"Broadway to Powder House Blvd"
+  },
+  {
+    "Street Name":"Oak",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Oak",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Oliver",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Oliver",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Orchard",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Orchard",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Otis",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Cross St. to McGrath Hwy."
+  },
+  {
+    "Street Name":"Otis",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Cross St. to McGrath Hwy."
+  },
+  {
+    "Street Name":"Otis",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Wigglesworth St. to Dana"
+  },
+  {
+    "Street Name":"Otis",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Wigglesworth St. to Dana"
+  },
+  {
+    "Street Name":"Oxford",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Oxford",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Park",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Park",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Parkdale",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Parkdale",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Parker",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Parker",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Paulina",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Paulina",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Pearl",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"Franklin to Mt. Vernon"
+  },
+  {
+    "Street Name":"Pearl",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"Franklin to Mt. Vernon"
+  },
+  {
+    "Street Name":"Pearl",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Franklin St. to McGrath Hwy"
+  },
+  {
+    "Street Name":"Pearl",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Franklin St. to McGrath Hwy"
+  },
+  {
+    "Street Name":"Pearl",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Marshall St. to McGrath"
+  },
+  {
+    "Street Name":"Pearl",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Marshall St. to McGrath"
+  },
+  {
+    "Street Name":"Pearl",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"Short end- Mt Vernon to Crescent Sts"
+  },
+  {
+    "Street Name":"Pearl",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"Short end- Mt Vernon to Crescent Sts"
+  },
+  {
+    "Street Name":"Pembroke",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Pembroke",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Perkins",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Perkins",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Perry",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Perry",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Pinckney",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Pinckney",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Pitman",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"(paved street)"
+  },
+  {
+    "Street Name":"Pitman",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"(paved street)"
+  },
+  {
+    "Street Name":"Poplar",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Poplar",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Porter",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Summer to Elm"
+  },
+  {
+    "Street Name":"Porter",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Summer to Elm"
+  },
+  {
+    "Street Name":"Porter",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Summer to Highland"
+  },
+  {
+    "Street Name":"Porter",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Summer to Highland"
+  },
+  {
+    "Street Name":"Prescott",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Prescott",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Princeton",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Princeton",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Prospect",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"Odd side No Parking anytime"
+  },
+  {
+    "Street Name":"Prospect",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Putnam",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Putnam",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Quincy",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Quincy",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Richardson",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Richardson",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Robinson",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Robinson",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Rose",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Rose",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Roseland",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Roseland",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Rossmore",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Rossmore",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Rush",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Broadway to Comm School"
+  },
+  {
+    "Street Name":"Rush",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Rush",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Broadway to Comm School"
+  },
+  {
+    "Street Name":"Rush",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Russell",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Russell",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Sacremento",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"to city line"
+  },
+  {
+    "Street Name":"Sacremento",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"to city line"
+  },
+  {
+    "Street Name":"School",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Summer to Somerville Ave."
+  },
+  {
+    "Street Name":"School",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Summer to Somerville Ave."
+  },
+  {
+    "Street Name":"School",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Highland Ave. to Somerville"
+  },
+  {
+    "Street Name":"School",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Highland Ave. to Somerville"
+  },
+  {
+    "Street Name":"School",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Broadway to Medford St."
+  },
+  {
+    "Street Name":"School",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Broadway to Medford St."
+  },
+  {
+    "Street Name":"School",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"Monday Night",
+    "Time":"12 a.m. - 6 a.m.",
+    "Section":"from Medford Street to Highland Ave."
+  },
+  {
+    "Street Name":"School",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"Wednesday Night",
+    "Time":"12 a.m. - 6 a.m.",
+    "Section":"from Medford Street to Highland Ave"
+  },
+  {
+    "Street Name":"Sewell",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Sewell",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Short Pearl",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"Short end- Mt Vernon to Crescent Sts"
+  },
+  {
+    "Street Name":"Short Pearl",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"Short end- Mt Vernon to Crescent Sts"
+  },
+  {
+    "Street Name":"Skehan",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Skehan",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"South",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"South",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Spring",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Spring",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Springfield",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Springfield",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Sterling",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Sterling",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Summer",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Cutter Ave to Lowell St."
+  },
+  {
+    "Street Name":"Summer",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Cutter Ave to Lowell St."
+  },
+  {
+    "Street Name":"Summer",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Lowell St. to School St."
+  },
+  {
+    "Street Name":"Summer",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Lowell St. to School St."
+  },
+  {
+    "Street Name":"Summer",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Quincy St. to Bow St."
+  },
+  {
+    "Street Name":"Summer",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Quincy St. to Bow St."
+  },
+  {
+    "Street Name":"Summer",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Prescott to School St."
+  },
+  {
+    "Street Name":"Summer",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Prescott to School St."
+  },
+  {
+    "Street Name":"Summit",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Summit",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Sycamore",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Highland Ave. to R.R. bridge"
+  },
+  {
+    "Street Name":"Sycamore",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Highland Ave. to R.R. bridge"
+  },
+  {
+    "Street Name":"Sycamore",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Broadway to R.R. bridge"
+  },
+  {
+    "Street Name":"Sycamore",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Broadway to R.R. bridge"
+  },
+  {
+    "Street Name":"Sydney",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Sydney",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Taylor",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Taylor",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Temple",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Temple",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Tennyson",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Tennyson",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Thorndike",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Thorndike",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Thorpe",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Thorpe",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Thurston",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Broadway to Medford St."
+  },
+  {
+    "Street Name":"Thurston",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Medford St. to Richdale Ave."
+  },
+  {
+    "Street Name":"Thurston",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Broadway to Medford St."
+  },
+  {
+    "Street Name":"Thurston",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Medford St. to Richdale Ave."
+  },
+  {
+    "Street Name":"Tower",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Tower",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Tremont",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Tremont",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Trull",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Trull",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Tufts",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Tufts",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Tyler",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Tyler",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Vernon",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Vernon",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Victoria",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Victoria",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Virginia",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Virginia",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Wahington",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"Thursday Night",
+    "Time":"12 a.m. - 6 a.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Waldo",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Waldo",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Walker",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Walker",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Wallace",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Wallace",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Walnut",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Medford St. to Broadway"
+  },
+  {
+    "Street Name":"Walnut",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Sanborn Ave. to Walnut St."
+  },
+  {
+    "Street Name":"Walnut",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Medford St. to Broadway"
+  },
+  {
+    "Street Name":"Walnut",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":"from Sanborn Ave. to Walnut St."
+  },
+  {
+    "Street Name":"Walnut",
+    "Suffix":"Street",
+    "Side":"either",
+    "Sweeping Day":"Saturday Night",
+    "Time":"12 a.m. - 7:30 a.m.",
+    "Section":"Bow St. to Pearl St."
+  },
+  {
+    "Street Name":"Ward",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"ward",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Ware",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Ware",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Warner",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Warner",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"warren",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"warren",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Warwick",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Warwick",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Washington",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"Tuesday Night",
+    "Time":"12 a.m. - 6 a.m.",
+    "Section":"McGrath Highway to Cambridge city line"
+  },
+  {
+    "Street Name":"Washington",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"Thursday Night",
+    "Time":"12 a.m. - 6 a.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Waterhouse",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Waterhouse",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Watson",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Watson",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Webster",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Webster",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Wesley",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Wesley",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"West",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"West",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"West Adams",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"West Adams",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"West Quincy",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"West Quincy",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Westminster",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Westminster",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Wheatland",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Wheatland",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Wheeler",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Wheeler",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Whitman",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Whitman",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Wigglesworth",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Wigglesworth",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"William",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"William",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Willoughby",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Willoughby",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Wilton",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Wilton",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Windom",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Windom",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Thursday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Winter",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Winter",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Woodstock",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Woodstock",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Wyatt",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Friday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Wyatt",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Monday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Yorktown",
+    "Suffix":"Street",
+    "Side":"odd",
+    "Sweeping Day":"1st and 3rd Tuesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  },
+  {
+    "Street Name":"Yorktown",
+    "Suffix":"Street",
+    "Side":"even",
+    "Sweeping Day":"2nd and 4th Wednesday",
+    "Time":"8 a.m. - 12 p.m.",
+    "Section":""
+  }
+]

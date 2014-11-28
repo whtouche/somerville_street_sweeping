@@ -1,0 +1,19 @@
+<html>
+<head>
+    <script type="text/javascript" src="angular.js"></script>
+    <script type="text/javascript" src="app.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body ng-app="StreetSweep">
+    <div ng-controller="parkingController">
+        <form ng-submit="streetSearch()">
+            <input ng-model="myStreet" type="text" />
+            <input type="submit"/>
+            {{foundStreet}}
+        </form>
+        <div ng-repeat="day in daysOfWeek" ng-class="{highlight: foundStreet.day === day}">
+        {{day}}
+        </div>
+    </div>
+</body>
+</html>
