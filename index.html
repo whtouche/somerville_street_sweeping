@@ -1,6 +1,7 @@
 <html>
 <head>
-    <script type="text/javascript" src="angular.js"></script>
+    <script type="text/javascript" src="bower_components/angular/angular.js"></script>
+    <script type="text/javascript" src="bower_components/angular-resource/angular-resource.js"></script>
     <script type="text/javascript" src="app.js"></script>
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
@@ -11,8 +12,8 @@
             <input type="submit"/>
             {{foundStreet}}
         </form>
-        <div ng-repeat="day in daysOfWeek" ng-class="{highlight: foundStreet.day === day}">
-        {{day}}
+        <div ng-repeat="day in daysOfMonth" class="calendar-day" ng-class="{highlight: foundStreet.day === day}">
+        {{day.date}}
         </div>
     </div>
 </body>

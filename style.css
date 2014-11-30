@@ -1,6 +1,10 @@
 .highlight {
     background-color: #f00;
-    height: 25vh;
-    width: 25vw;
     color: pink;
+}
+.calendar-day {
+    height: 50px;
+    width: 50px;
+    display: inline;
+    border: 1px solid gold;
 }
