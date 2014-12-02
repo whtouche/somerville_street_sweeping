@@ -36,7 +36,8 @@ myApp.controller("parkingController", function($scope, streetList) {
         for (var i = 0; i < months[today.getMonth()]; i++) {
             week[dayOfWeek] = {
                 day: days[dayOfWeek],
-                date: i + 1
+                date: i + 1,
+                isToday: today.getDate() === i + 1
             }
             if (dayOfWeek == 6) {
                 month.push(week);

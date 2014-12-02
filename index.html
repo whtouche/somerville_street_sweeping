@@ -16,7 +16,7 @@
             <th ng-repeat="day in daysOfWeek">
             {{day}}
             <tr ng-repeat="week in daysOfMonth" >
-            <td ng-repeat="day in week" class="calendar-day" ng-class="{ highlight: day.isToday() }" >
+            <td ng-repeat="day in week" class="calendar-day" ng-class="{ highlight: day.isToday }" >
                     {{day.date}}
                 </td>
             </tr>
