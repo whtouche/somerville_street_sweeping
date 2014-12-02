@@ -14,6 +14,7 @@
         </form>
         <div ng-repeat="day in daysOfMonth" class="calendar-day" ng-class="{highlight: foundStreet.day === day}">
         {{day.date}}
+        {{day.dayOfWeek}}
         </div>
     </div>
 </body>
