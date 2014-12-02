@@ -21,37 +21,31 @@ myApp.controller("parkingController", function($scope, streetList) {
         $scope.foundStreet = streetList.search($scope.myStreet);
 
     };
-    $scope.daysOfWeek = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+    var days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+    $scope.daysOfWeek = days;
+    var months = [31,28,31,30,31,30,31,31,30,31,30,31];
 
-    $scope.daysOfMonth = assignDayOfWeek(getDaysOfMonth());
-    function assignDayOfWeek(aMonthOfDays) {
-        var today = new Date().getDay();
-        var thisDate = new Date().getDate();
-        for (var i = today; i < 6; i ++) {
-            aMonthOfDays[thisDate].dayOfWeek = $scope.daysOfWeek[today];
-            if (thisDate < 32) {
-                thisDate ++;
-            } else {
-                thisDate = 1;
-            }
-
-            if (today < 6) {
-                today++;
-            } else {
-                today = 0;
-            }
-            return aMonthOfDays;
-        }
-    }
+    $scope.daysOfMonth = getDaysOfMonth();
 
     function getDaysOfMonth() {
-        var days = [];
-        for(var length = 1; length < 32; length++) {
-                days.push( {date: length, side: 'even' } );
-                days.push( {date: length, side: 'odd'} );
+        var today = new Date();
+        var month = [];
+        var week = [];
+        var dayOfWeek = today.getDate() % 7;
+
+        for (var i = 0; i < months[today.getMonth()]; i++) {
+            week[dayOfWeek] = {
+                day: days[dayOfWeek],
+                date: i + 1
+            }
+            if (dayOfWeek == 6) {
+                month.push(week);
+                week = [];
+            }
+            dayOfWeek = ( dayOfWeek + 1 ) % 7;
         }
-        return days;
+        month.push(week);
+        return month;
     }
 });
 
-//create table where columns are days and rows are weeks

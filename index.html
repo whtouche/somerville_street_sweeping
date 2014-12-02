@@ -12,10 +12,16 @@
             <input type="submit"/>
             {{foundStreet}}
         </form>
-        <div ng-repeat="day in daysOfMonth" class="calendar-day" ng-class="{highlight: foundStreet.day === day}">
-        {{day.date}}
-        {{day.dayOfWeek}}
-        </div>
+        <table>
+            <th ng-repeat="day in daysOfWeek">
+            {{day}}
+            <tr ng-repeat="week in daysOfMonth" >
+            <td ng-repeat="day in week" class="calendar-day" ng-class="{ highlight: day.isToday() }" >
+                    {{day.date}}
+                </td>
+            </tr>
+        </table>
     </div>
+</div>
 </body>
 </html>
