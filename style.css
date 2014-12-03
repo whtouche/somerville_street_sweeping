@@ -1,5 +1,10 @@
 table {
     border: 1px solid blue;
+    margin: 0 auto;
+}
+form {
+    display: inline;
+    float: left;
 }
 .highlight {
     background-color: #f00;
