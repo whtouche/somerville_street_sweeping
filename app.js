@@ -23,11 +23,11 @@ myApp.controller("parkingController", function($scope, streetList) {
     };
     var days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
     $scope.daysOfWeek = days;
-    var months = [31,28,31,30,31,30,31,31,30,31,30,31];
 
     $scope.daysOfMonth = getDaysOfMonth();
 
     function getDaysOfMonth() {
+        var months = [31,28,31,30,31,30,31,31,30,31,30,31];
         var today = new Date();
         var month = [];
         var week = [];
